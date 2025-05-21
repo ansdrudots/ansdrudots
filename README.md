@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansdrudots
+- 👋 Hi, I’m Muhammad Ans
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mobile and web projects
